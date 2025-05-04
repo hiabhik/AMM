@@ -1,0 +1,8 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="400" fill="#2c3e50" />
+  <rect x="200" y="100" width="200" height="200" rx="20" ry="20" fill="#34495e" />
+  <rect x="250" y="150" width="100" height="100" rx="10" ry="10" fill="#2c3e50" />
+  <text x="300" y="200" font-family="Arial" font-size="28" text-anchor="middle" fill="#c9a664">Glycine</text>
+  <text x="300" y="240" font-family="Arial" font-size="18" text-anchor="middle" fill="#fff">Pharmaceutical grade</text>
+  <text x="300" y="270" font-family="Arial" font-size="18" text-anchor="middle" fill="#fff">glycine powder</text>
+</svg>

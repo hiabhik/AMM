@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="150" viewBox="0 0 400 150" xmlns="http://www.w3.org/2000/svg">
+  <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#CCCCCC" />
+    <stop offset="100%" stop-color="#F5F5F5" />
+  </linearGradient>
+  <path d="M70 20 L40 100 L20 100 L50 20 L70 20 Z" fill="url(#logoGradient)" />
+  <path d="M80 20 L110 100 L90 100 L70 40 L50 100 L30 100 L60 20 L80 20 Z" fill="url(#logoGradient)" />
+  <path d="M120 20 L150 20 L180 60 L180 20 L200 20 L200 100 L180 100 L150 60 L150 100 L120 100 L120 20 Z" fill="url(#logoGradient)" />
+</svg>

@@ -1,0 +1,6 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="400" fill="#f0f0f0" />
+  <text x="300" y="180" font-family="Arial" font-size="28" text-anchor="middle" fill="#333">Steel Manufacturing</text>
+  <text x="300" y="220" font-family="Arial" font-size="18" text-anchor="middle" fill="#666">Calcined lime is used as a flux</text>
+  <text x="300" y="250" font-family="Arial" font-size="18" text-anchor="middle" fill="#666">in steel production processes</text>
+</svg>
